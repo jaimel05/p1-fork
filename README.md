@@ -1,6 +1,6 @@
 # Práctica 1
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+El objetivo de la práctica es familiarizarse con los conceptos basicos de Git y Github para facilitar la realización de futuras prácticas.
 
 ## ¿Como probar en la nube?
 
