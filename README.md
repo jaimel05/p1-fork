@@ -5,7 +5,7 @@ El objetivo de la práctica es familiarizarse con los conceptos basicos de Githu
 ## Git y GitHub
 
 En primer lugar se va a explicar el funcionamiento de diferentes comandos básicos de git:
-```git clone https://github.com/gitt-3-pat/p1```: Permite crear una copia de un repositorio ya existente en la nube ([gitt-3-pat/p1](https://github.com/gitt-3-pat/p1)) en el sistema de archivos local, y trabajar en él.
+``git clone https://github.com/gitt-3-pat/p1``: Permite crear una copia de un repositorio ya existente en la nube ([gitt-3-pat/p1](https://github.com/gitt-3-pat/p1)) en el sistema de archivos local, y trabajar en él.
 ```
 git status
 ```
