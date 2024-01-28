@@ -24,7 +24,8 @@ Finalmente, `git checkout ` permite desplazarte entre las diferentes ramas cread
 
 ## Entorno de desarrollo Java
 
-Se pide descargar al alumno:
+Se pide al alumno descargarse:
+
 Java 17
 
 <img width="471" alt="image" src="https://github.com/jaimel05/p1-fork/assets/122466487/f0b8e7e1-3577-46ca-b58d-80bc53f5f5e3">
