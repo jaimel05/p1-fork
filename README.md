@@ -11,7 +11,8 @@ Para crear una copia de un repositorio ya existente en la nube (como [gitt-3-pat
 A través de `git status` se muestra información de gran importancia como el estado del repositorio, los archivos que han sido modificados, o aquellos que se encuentran en el área de ensayo.
 
 <img width="350" alt="image" src="https://github.com/jaimel05/p1-fork/assets/122466487/89a3cc2d-e45f-4b58-8f7f-a689904554c3">
- En la imagen superior se muestra la respuesta obtenida tras ejecutar este comando. Como se observa, todos los cambios están sincronizados.
+
+En la imagen superior se muestra la respuesta obtenida tras ejecutar este comando. Como se observa, todos los cambios están sincronizados.
 
 Gracias a `git add .` se añaden todos los archivos al área de ensayo. 
 
