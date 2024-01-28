@@ -10,6 +10,7 @@ git clone https://github.com/gitt-3-pat/p1
 ```
 Permite crear una copia de un repositorio ya existente en la nube ([gitt-3-pat/p1](https://github.com/gitt-3-pat/p1)) en el sistema de archivos local, y trabajar en él.
 
+
 ```
 git status
 ```
