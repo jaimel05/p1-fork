@@ -16,7 +16,7 @@ En la imagen superior se muestra la respuesta obtenida tras ejecutar este comand
 
 Gracias a `git add .` se añaden todos los archivos al área de ensayo. 
 
-Una vez añadidos los cambios al área de ensayo, mediante `git commit -m "TU MENSAJE"` los cambios se confirman y se guardan de forma definitiva en el repositorio. En vez de "TU MENSAJE" se suele incluir una descripción de los cambios realizados.
+Una vez añadidos los cambios al área de ensayo, mediante `git commit -m "TU MENSAJE"` los cambios se confirman y se guardan de forma definitiva en el repositorio. Se podrá regresar a versiones anteriores de los diferentes commits. En vez de "TU MENSAJE" se debe incluir una descripción de los cambios realizados.
 
 Se utiliza `git push` para cargar los cambios locales, a un repositorio remoto en la nube. 
 
