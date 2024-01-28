@@ -8,11 +8,13 @@ En primer lugar se va a explicar el funcionamiento de diferentes comandos básic
 
 Para crear una copia de un repositorio ya existente en la nube (como [gitt-3-pat/p1](https://github.com/gitt-3-pat/p1)) al sistema de archivos local y poder trabajar en él, se hace uso del comando `git clone https://github.com/gitt-3-pat/p1`. 
 
-A través de `git status` se muestra información de gran importancia como el estado del repositorio, ademas de indicar los archivos que han sido modificados o aquellos que se encuentran en el área de ensayo.
+A través de `git status` se muestra información de gran importancia como el estado del repositorio, los archivos que han sido modificados, o aquellos que se encuentran en el área de ensayo. En la siguiente imagen se muestra la respuesta obtenida tras ejecutar este comando. Como se observa, todos los cambios están sincronizados.
+<img width="287" alt="image" src="https://github.com/jaimel05/p1-fork/assets/122466487/89a3cc2d-e45f-4b58-8f7f-a689904554c3">
+
 
 Gracias a `git add .` se añaden todos los archivos al área de ensayo. 
 
-Una vez añadidos los cambios al área de ensayo, mediante `git commit -m "TU MENSAJE"` los cambios se confirman y se guardan de forma definitiva en el repositorio.
+Una vez añadidos los cambios al área de ensayo, mediante `git commit -m "TU MENSAJE"` los cambios se confirman y se guardan de forma definitiva en el repositorio. En vez de "TU MENSAJE" se suele incluir una descripción de los cambios realizados.
 
 Se utiliza `git push` para cargar los cambios locales, a un repositorio remoto en la nube. 
 
