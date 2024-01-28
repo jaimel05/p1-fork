@@ -1,15 +1,14 @@
 # Práctica 1
 
-El objetivo de la práctica es familiarizarse con los conceptos basicos de Git y Github para facilitar la realización de futuras prácticas.
+El objetivo de la práctica es familiarizarse con los conceptos basicos de Github para facilitar la realización de futuras prácticas, así como preparar el equipo para ello.
 
-## ¿Como probar en la nube?
+## Desarrollo de la Práctica
 
-[Github-Codespaces](https://github.com/features/codespaces)
-
-## Comandos git básicos
-
+En primer lugar se va a explicar el funcionamiento de diferentes comandos básicos de git:
 ```
 git clone https://github.com/gitt-3-pat/p1
+```
+
 git status
 git add .
 git commit -m "TU MENSAJE"
