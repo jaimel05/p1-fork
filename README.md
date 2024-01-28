@@ -32,6 +32,8 @@ Java 17
 
 Maven
 
+<img width="647" alt="image" src="https://github.com/jaimel05/p1-fork/assets/122466487/8915d7b7-4fdb-49fc-ba33-63d55d2e2062">
+
 
 Editor de código fuente (VsCode + IntelliJ)
 
