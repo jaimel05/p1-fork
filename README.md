@@ -8,6 +8,7 @@ En primer lugar se va a explicar el funcionamiento de diferentes comandos básic
 ```
 git clone https://github.com/gitt-3-pat/p1
 ```
+Se utiliza para copiar el repositorio ya existente en la nube ([gitt-3-pat/p1](https://github.com/gitt-3-pat/p1) en el sistema de archivos local.
 
 git status
 git add .
